@@ -31,21 +31,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockrypt&layout=compact&hide_border=true&theme=dark" alt="blockrypt's Top Languages" />
 </div>
 
-### 🏆 Achievements:
-- Contributed to multiple open-source projects.
-- Developed a cross-platform application.
-- Active member of the developer community.
-
-### 📄 Latest Activity:
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/blockrypt/repo/pull/123) in [blockrypt/repo](https://github.com/blockrypt/repo)
-2. 💬 Commented on [#456](https://github.com/blockrypt/repo/issues/456) in [blockrypt/repo](https://github.com/blockrypt/repo)
-3. 🚀 Opened PR [#789](https://github.com/blockrypt/repo/pull/789) in [blockrypt/repo](https://github.com/blockrypt/repo)
-<!--END_SECTION:activity-->
-
-### ⚡ Fun Fact:
-- I love playing chess and have participated in several online chess tournaments.
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blockrypt&color=blue&style=flat-square" alt="Profile views" />
 </div>
