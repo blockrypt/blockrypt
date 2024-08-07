@@ -24,17 +24,6 @@
 - **Russian**
 - **French**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=blockrypt&color=blue&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlrM2M0djdiMWd2d3JpNDVnOWFxazhvcnQydTRka2N4ejJhNW4zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" alt="coding gif">
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh4M2ljZ2U0bmtldHRsZW9jZzIzNGNkNjliaTJ0OXkzYjJ4ODd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNlhulNKUcO9T3a3ag/giphy.gif" alt="coding gif">
-</div>
                                                                                                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠂⠤⢀⠄⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                                                                                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠀⠀⣠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢄⡈⠐⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                                                                                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⢚⣀⣤⠐⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢄⣤⣘⢦⢀⠈⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -63,6 +52,17 @@
                                                                                                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⢡⠉⠄⠱⡈⡔⠠⠌⢄⠈⠄⠡⠈⠀⠄⠁⠀⠄⠂⠀⡁⠠⢀⠂⠄⠨⡀⠆⡄⠡⠐⡈⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                                                                                                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡑⢂⠌⡘⢠⠱⢌⠡⠌⢠⠈⠠⢁⠠⢁⠀⡁⠠⢀⠈⢀⠐⢀⠂⡈⠄⢡⢐⡡⢀⠁⢂⠐⡈⡄⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀                                          
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=blockrypt&color=blue&style=flat-square" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlrM2M0djdiMWd2d3JpNDVnOWFxazhvcnQydTRka2N4ejJhNW4zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" alt="coding gif">
+</div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh4M2ljZ2U0bmtldHRsZW9jZzIzNGNkNjliaTJ0OXkzYjJ4ODd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNlhulNKUcO9T3a3ag/giphy.gif" alt="coding gif">
+</div>
 <!---
 blockrypt/blockrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
