@@ -1,7 +1,7 @@
 # Hi, I’m @blockrypt! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" width="600">
 </p>
 
 ## 🌟 I’m interested in:
@@ -22,14 +22,8 @@
 
 ## 📬 How to reach me:
 <p align="left">
-  <a href="mailto:blockrypt@example.com">
+  <a href="mailto:blockrypt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/blockrypt">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/blockrypt">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
 
