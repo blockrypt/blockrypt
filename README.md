@@ -1,41 +1,52 @@
-# Hi, I’m @blockrypt! 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="terminal gif">
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" width="600">
-</p>
+## 👋 Hi there, I'm @blockrypt!
 
-## 🌟 I’m interested in:
-- **Blockchain Technology and Cryptocurrencies**: Exploring new projects, discussing the future of digital finance, and diving into the latest innovations.
-- **Artificial Intelligence**: Always on the lookout for cutting-edge approaches and solutions to make AI smarter and more useful.
-- **Startup Development**: From ideation to execution, I enjoy everything related to entrepreneurship and innovation.
-- **Android App Development**: Crafting intuitive and engaging mobile experiences with the latest technologies and best practices.
+### 🚀 About Me
+- 🖥️ Passionate about **Cybersecurity** and **Blockchain Technologies**.
+- 📱 Currently developing an **Android application**.
+- 🌱 Constantly learning and exploring new technologies.
+- 🤝 Looking to collaborate on **Open Source Projects**.
 
-## 📚 Currently learning:
-- **Advanced Blockchain Development**: Sharpening my skills with various platforms and tools in the blockchain space.
-- **Advanced Machine Learning**: Expanding my knowledge in neural networks and deep learning to stay ahead in AI.
-- **Modern Android Development**: Exploring new frameworks, libraries, and techniques to build top-notch mobile applications.
+### 🌐 Connect with me:
+<a href="mailto:blockrypt@gmail.com"><img src="https://img.shields.io/badge/Email-blockrypt@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
-## 🤝 Looking to collaborate on:
-- **Blockchain and AI Projects**: Eager to exchange ideas and work on innovative solutions with like-minded individuals.
-- **Android App Development**: Seeking collaboration on exciting mobile projects and sharing insights on creating high-quality apps.
-- **Developers and Entrepreneurs**: Looking for partners who share my drive for creating cutting-edge technologies and products.
+### 🛠️ Technologies & Tools:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
-## 📬 How to reach me:
-<p align="left">
-  <a href="mailto:blockrypt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+### 📈 GitHub Stats:
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=blockrypt&show_icons=true&hide_border=true&theme=dark" alt="blockrypt's GitHub Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockrypt&layout=compact&hide_border=true&theme=dark" alt="blockrypt's Top Languages" />
+</div>
 
-## 😄 Pronouns:
-- **He/Him**
+### 🏆 Achievements:
+- Contributed to multiple open-source projects.
+- Developed a cross-platform application.
+- Active member of the developer community.
 
-## ⚡ Fun fact:
-- **I once built a decentralized application that solved a unique problem and gained recognition in the tech community. Additionally, I developed a highly-rated Android app that has helped thousands of users streamline their daily tasks.**
+### 📄 Latest Activity:
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/blockrypt/repo/pull/123) in [blockrypt/repo](https://github.com/blockrypt/repo)
+2. 💬 Commented on [#456](https://github.com/blockrypt/repo/issues/456) in [blockrypt/repo](https://github.com/blockrypt/repo)
+3. 🚀 Opened PR [#789](https://github.com/blockrypt/repo/pull/789) in [blockrypt/repo](https://github.com/blockrypt/repo)
+<!--END_SECTION:activity-->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ7M1e5VRbCXS/giphy.gif" width="300">
-</p>
+### ⚡ Fun Fact:
+- I love playing chess and have participated in several online chess tournaments.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=blockrypt&color=blue&style=flat-square" alt="Profile views" />
+</div>
+
 
 <!---
 blockrypt/blockrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
