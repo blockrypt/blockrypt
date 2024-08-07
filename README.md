@@ -1,12 +1,9 @@
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ppMnppOTQ2dmk5Z2Z1MDRtb3J5cHFrN3hsYm12b2oyeDBlb2I3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYRN89l6PG7TOoM/giphy.gif" alt="coding gif">
-</div>
+## ⋆｡°✩ Hi there, I'm @blockrypt!
 
-## 👋 Hi there, I'm @blockrypt!
-
-### 🚀 About Me
-- 🖥️ Passionate about **Cybersecurity** and **Blockchain Technologies**.
+### ⋆｡˚🎸 About Me
+- 🧪 Passionate about **Cybersecurity**, **Blockchain Technologies**, and **Physics**.
 - 📱 Currently developing an **Android application**.
+- 📐 I’m also a **Mathematician**, **Chemist**, and **Programmer**.
 - 🌱 Constantly learning and exploring new technologies.
 - 🤝 Looking to collaborate on **Open Source Projects**.
 
