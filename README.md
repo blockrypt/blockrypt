@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="terminal gif">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ppMnppOTQ2dmk5Z2Z1MDRtb3J5cHFrN3hsYm12b2oyeDBlb2I3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYRN89l6PG7TOoM/giphy.gif" alt="coding gif">
 </div>
 
 ## 👋 Hi there, I'm @blockrypt!
@@ -15,12 +15,15 @@
 
 ### 🛠️ Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+
+### 🌍 Languages:
+- **English**
+- **Russian**
+- **French**
 
 ### 📈 GitHub Stats:
 <div align="center">
@@ -46,6 +49,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blockrypt&color=blue&style=flat-square" alt="Profile views" />
 </div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlrM2M0djdiMWd2d3JpNDVnOWFxazhvcnQydTRka2N4ejJhNW4zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" alt="coding gif">
+</div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh4M2ljZ2U0bmtldHRsZW9jZzIzNGNkNjliaTJ0OXkzYjJ4ODd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNlhulNKUcO9T3a3ag/giphy.gif" alt="coding gif">
+</div>
+
 
 
 <!---
